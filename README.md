@@ -2,10 +2,12 @@
 
 CoDe1161 data project repository
 
-Flying-Foxes: The Animal Not The Equipment
+Flying-Foxes
 
 What I want to explore through the data:
 
-1. Amount of Flying-Foxes were recorded in 2019
+1. Amount of Flying-Foxes were recorded
    - proportion of what species made up that amount
 2. Mapping
+
+it's a bit stress

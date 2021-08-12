@@ -1,0 +1,75 @@
+Name of local government,Name of camp,Latitude,Longitude,Date of survey,Flying-fox absent (true/false),Total number of black flying-fox,Total number of Grey-headed flying-fox,Total number of Little red flying-fox,Total number of Spectacled flying-fox,Total number of all species,EHP camp identification,CSIRO camp identification
+Bundaberg,"Bundaberg, Baldwin Swamp Environment Park",-24.86732,152.370743,17-Aug-18,FALSE,20000,0,0,0,20000,265,772
+Ipswich,"Bundamba, Paice St",-27.612423,152.81273,17-Aug-18,FALSE,100,700,0,0,800,196,574
+Ipswich,"Redbank Plains, Phillip Street",-27.65083,152.856686,17-Aug-18,FALSE,100,0,0,0,100,359,
+Ipswich,"Camira, Pilney Reserve (Barbara Street)",-27.6315,152.9206,17-Aug-18,FALSE,500,500,0,0,1000,20,140
+Ipswich,"Walloon, Poplar Street Reserve",-27.6033,152.6728,17-Aug-18,TRUE,0,0,0,0,0,267,
+Ipswich,"Ipswich Nature Centre, Queens Park, Goleby Ave",-27.619142,152.767861,17-Aug-18,TRUE,0,0,0,0,0,215,595
+Ipswich,Woodend,-27.6031,152.7485,17-Aug-18,TRUE,0,0,0,0,0,172,191
+Ipswich,Yamanto,-27.651449,152.755601,17-Aug-18,FALSE,1000,500,0,0,1500,177,479
+Lockyer Valley,"Gatton, Amaroo Retirement Village, Tenthill Creek",-27.564791,152.272578,17-Aug-18,TRUE,0,0,0,0,0,182,347
+Lockyer Valley,"Helidon, Gunn Street",-27.548306,152.122694,17-Aug-18,TRUE,0,0,0,0,0,212,570
+Lockyer Valley,"Laidley, Laidley Plainlands Road",-27.620558,152.394769,17-Aug-18,FALSE,218,0,0,0,218,76,372
+Lockyer Valley,Murphys Creek,-27.455941,152.049271,17-Aug-18,TRUE,0,0,0,0,0,358,
+Fraser Coast,"Anembo Lakes, Torquay",-25.287433,152.883351,17-Aug-18,TRUE,0,0,0,0,0,364,
+North Burnett,"Gayndah, Barambah Ck",-25.5859,151.6622,16-Aug-18,TRUE,0,0,0,0,0,50,549
+Fraser Coast,"Sunshine Acres, Black Swamp Creek",-25.3749,152.7692,17-Aug-18,TRUE,0,0,0,0,0,147,537
+Fraser Coast,"Hervey Bay, Botanic Gardens",-25.288845,152.892866,17-Aug-18,FALSE,45000,30000,0,0,75000,63,580
+Fraser Coast,"Burrum River (upper), Junction Cherwell River",-25.327328,152.5784,17-Aug-18,TRUE,0,0,0,0,0,18,299
+North Burnett,Coalstoun Lakes Recreation Reserve,-25.6147,151.8965,16-Aug-18,TRUE,0,0,0,0,0,29,315
+Fraser Coast,Craignish Heights,-25.2875,152.7471,17-Aug-18,TRUE,0,0,0,0,0,347,
+Fraser Coast,"Dundowran, Jimilee Street",-25.274922,152.750073,17-Aug-18,TRUE,0,0,0,0,0,210,589
+Fraser Coast,"Tinana, Franklins Close",-25.5404,152.6789,16-Aug-18,TRUE,0,0,0,0,0,155,459
+North Burnett,Gayndah Township,-25.6239,151.6109,16-Aug-18,TRUE,0,0,0,0,0,51,348
+Fraser Coast,"Maryborough, Kent Street",-25.5436,152.7131,16-Aug-18,TRUE,0,0,0,0,0,88,535
+Fraser Coast,"Maryborough, Little Tinana Ck",-25.556,152.7137,16-Aug-18,TRUE,0,0,0,0,0,89,391
+Fraser Coast,"Maaroom, Esplanade",-25.613321,152.874238,16-Aug-18,TRUE,0,0,0,0,0,209,539
+Fraser Coast,"Maryborough, Albion Rd Wetlands (Island Plantation",-25.5097,152.7185,16-Aug-18,TRUE,0,0,0,0,0,87,533
+Fraser Coast,"Dundowran, O'Reagans Creek CP",-25.2682,152.7272,17-Aug-18,TRUE,0,0,0,0,0,41,330
+Fraser Coast,"Dundowran Beach, Ocean Park Drive, Petersons Park",-25.270079,152.745372,17-Aug-18,FALSE,0,0,0,0,0,249,760
+Fraser Coast,"Maryborough, Saltwater Creek",-25.4734,152.7224,17-Aug-18,TRUE,0,0,0,0,0,90,392
+Fraser Coast,"Toogoom, Shellcot Street",-25.255865,152.69216,17-Aug-18,TRUE,0,0,0,0,0,271,
+Fraser Coast,"Maryborough, Tinana Island,",-25.56086,152.71216,16-Aug-18,TRUE,0,0,0,0,0,91,534
+Fraser Coast,"Hervey Bay, Tooan Tooan",-25.2818,152.8472,17-Aug-18,TRUE,0,0,0,0,0,65,538
+Fraser Coast,"Woocoo NP, Aramara",-25.63721563,152.3299461,16-Aug-18,FALSE,0,100000,0,0,100000,171,190
+Mackay,Walkerston,-21.1606,149.0621,17-Aug-18,TRUE,0,0,0,0,0,294,276
+Mackay,Vines Creek,-21.1137,149.1816,17-Aug-18,TRUE,0,0,0,0,0,293,293
+Brisbane,"East Brisbane, Norman Creek (Heath Park/Giffin Par",-27.484127,153.051947,18-Aug-18,FALSE,1084,422,0,0,1506,43,159
+Lockyer Valley,"Gatton, Amaroo Retirement Village, Tenthill Creek",-27.564791,152.272578,18-Aug-18,TRUE,0,0,0,0,0,182,347
+Southern Downs,Allora (Dalrymple Creek),-28.028018,151.983746,19-Aug-18,TRUE,0,0,0,0,0,2,271
+Southern Downs,"Warwick, Grafton Street",-28.211456,152.026038,17-Aug-18,TRUE,0,0,0,0,0,226,775
+Mackay,Finch Hatton Gorge,-21.0808,148.6347,17-Aug-18,FALSE,8000,30,0,0,8030,290,343
+Somerset,"Linville, John Street",-26.841322,152.278415,16-Aug-18,TRUE,0,0,0,0,0,206,552
+Somerset,"Kilcoy, Kilcoy Creek (Anzac Park)",-26.941497,152.568748,16-Aug-18,TRUE,0,0,0,0,0,200,368
+Somerset,Lowood Bend (Camp 1) Brisbane River,-27.4688,152.5886,16-Aug-18,TRUE,0,0,0,0,0,83,383
+Somerset,Esk,-27.2349,152.4233,16-Aug-18,FALSE,800,3200,0,0,4000,47,156
+Gladstone,Calliope,-24.00123,151.19309,17-Aug-18,TRUE,0,0,0,0,0,262,
+Gladstone,Boyne Island,-23.943197,151.354066,17-Aug-18,TRUE,0,0,0,0,0,278,290
+Gladstone,Miriam Vale,-24.3262,151.5547,17-Aug-18,TRUE,0,0,0,0,0,264,
+Brisbane,"Herston, Enoggera Creek",-27.442402,153.022578,18-Aug-18,FALSE,429,3861,0,0,4290,46,339
+Rockhampton,Kabra,-23.471698,150.396872,17-Aug-18,TRUE,0,0,0,0,0,256,362
+Brisbane,Mount Ommaney - Westlake Drive,-27.5444,152.9255,16-Aug-18,FALSE,0,1220,0,0,1220,95,400
+Brisbane,"Stafford, Sparkes Hill, Clover Street",-27.412,152.9992,18-Aug-18,TRUE,0,0,0,0,0,142,179
+Brisbane,Sunnybank (Les Atkinson Park),-27.582594,153.052372,16-Aug-18,TRUE,0,0,0,0,0,146,452
+Brisbane,"Calamvale, Earnshaw St.",-27.621157,153.036482,17-Aug-18,TRUE,0,0,0,0,0,19,300
+Brisbane,"Parkinson, Avondale Crescent",-27.63034,153.033682,17-Aug-18,FALSE,5810,0,0,0,5810,112,419
+Brisbane,"Calamvale, Golden Avenue",-27.62738,153.056525,17-Aug-18,TRUE,0,0,0,0,0,241,744
+Scenic Rim,Tamborine NP (Joalah Sec),-27.9237,153.1935,17-Aug-18,TRUE,0,0,0,0,0,150,455
+Banana,"Westwood, Capricornia Highway",-23.62135,150.15571,17-Aug-18,TRUE,0,0,0,0,0,255,754
+Whitsunday,Proserpine River,-20.45575,148.69517,19-Aug-18,TRUE,0,0,0,0,0,328,426
+Brisbane,"Windsor, Enoggera Creek",-27.437646,153.037633,18-Aug-18,TRUE,0,0,0,0,0,199,644
+Somerset,Atkinsons Dam,-27.42135,152.456091,16-Aug-18,FALSE,7500,30000,0,0,37500,373,
+Moreton Bay,Burpengary Equestrian,-27.16051,152.955304,20-Aug-18,FALSE,0,0,0,0,0,189,298
+Moreton Bay,Burpengary,-27.152663,152.971398,20-Aug-18,TRUE,0,0,0,0,0,16,297
+Sunshine Coast,"Mooloolaba, Goonawarra Drive",-26.682433,153.107033,18-Aug-18,TRUE,0,0,0,0,0,93,395
+Western Downs,"Chinchilla, Dorney Street",-26.75057,150.62288,19-Aug-18,FALSE,0,0,5000,0,5000,179,313
+Western Downs,"Dalby, Myall Creek",-27.18833,151.2626,19-Aug-18,FALSE,500,0,0,0,500,37,327
+Toowoomba,Oakey - Campbell St,-27.43556,151.720408,19-Aug-18,FALSE,100,0,0,0,100,191,556
+Moreton Bay,"Sandstone Point, Bestman Rd",-27.0804,153.1279,27-Aug-18,TRUE,0,0,0,0,0,135,439
+Sunshine Coast,"Palmwoods, Jubilee Drive",-26.6825,152.9618,21-Aug-18,FALSE,10,50,0,0,60,243,
+Sunshine Coast,"Maroochydore, Stella Maris CS",-26.65077,153.07115,21-Aug-18,TRUE,0,0,0,0,0,86,390
+Sunshine Coast,"Moffat Beach, Tooway Creek",-26.788058,153.136706,20-Aug-18,TRUE,0,0,0,0,0,156,460
+Moreton Bay,"Caboolture, Wararba Creek",-27.081615,152.926761,20-Aug-18,FALSE,0,6000,0,0,6000,164,186
+Fraser Coast,"Toogoom, Shellcot Street",-25.255865,152.69216,17-Aug-18,TRUE,0,0,0,0,0,271,
+Sunshine Coast,"Coolum, Cassia Wildlife Corridor & Elizabeth St Drain",-26.5327996,153.085496,17-Aug-18,TRUE,0,0,0,0,0,198,322
+Ipswich,"Bundamba, Paice St",-27.612423,152.81273,17-Aug-18,FALSE,100,700,200,0,1000,196,574
